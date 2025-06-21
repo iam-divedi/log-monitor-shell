@@ -1,0 +1,11 @@
+2025-06-21 20:50:11 : Jun 21 20:33:16 LAPTOP-9LB8H2IJ kernel: [    8.908710] WSL (264) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-06-21 20:50:11 : Jun 21 20:33:16 LAPTOP-9LB8H2IJ networkd-dispatcher[180]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:11 : Jun 21 20:33:16 LAPTOP-9LB8H2IJ networkd-dispatcher[180]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='eth0', type='ether', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:11 : Jun 21 20:33:26 LAPTOP-9LB8H2IJ kernel: [   19.350253] WSL (2 - init-systemd(Ubuntu-22.04)) ERROR: WaitForBootProcess:3497: /sbin/init failed to start within 10000ms
+2025-06-21 20:50:12 : Jun 21 20:34:24 LAPTOP-9LB8H2IJ networkd-dispatcher[198]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:12 : Jun 21 20:34:24 LAPTOP-9LB8H2IJ networkd-dispatcher[198]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='eth0', type='ether', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:12 : Jun 21 20:34:44 LAPTOP-9LB8H2IJ networkd-dispatcher[198]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:12 : Jun 21 20:34:44 LAPTOP-9LB8H2IJ networkd-dispatcher[198]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='eth0', type='ether', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:16 : Jun 21 20:48:24 LAPTOP-9LB8H2IJ networkd-dispatcher[201]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:16 : Jun 21 20:48:24 LAPTOP-9LB8H2IJ networkd-dispatcher[201]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='eth0', type='ether', operational='n/a', administrative='unmanaged'): n/a
+2025-06-21 20:50:16 : Jun 21 20:49:10 LAPTOP-9LB8H2IJ kernel: [    7.334432] WSL (268) ERROR: CheckConnection: getaddrinfo() failed: -5
